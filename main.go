@@ -13,7 +13,7 @@ const (
 	ARLPIC_IDX          //2
 	NEWSP_IDX           //39
 	BBSTOPIC_IDX        //4
-	PRDTLIB_IDX         //5
+	PRDTLIB_IDX         //6
 )
 
 func main() {
